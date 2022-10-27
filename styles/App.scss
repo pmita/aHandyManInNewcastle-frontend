@@ -1,0 +1,10 @@
+// SASS ASSETS
+@import './abstract/global';
+@import './base/variables';
+@import './functions/mixins';
+
+.App{
+    background: $white;
+    min-height: 100vh;
+    width: 100%;
+}
